@@ -6,7 +6,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 
 
-## [0.85] - 2021-09-13
+## [0.85] - 2022-10-30
 
 ### Changed
 - presets now always clean up firewall rules
@@ -20,7 +20,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 
 
-## [0.84] - 2020-10-25
+## [0.84] - 2022-10-25
 
 ### Added
  - added duplicate rule cleanup option
@@ -41,7 +41,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 
 
-## [0.83] - 2020-10-19
+## [0.83] - 2022-10-19
 
 ### Added
 - added fitlering mode indocator to tray
@@ -65,7 +65,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 
 
-## [0.82b] - 2020-10-17
+## [0.82b] - 2022-10-17
 
 ### Changed
 - tray icon is now on by default 
@@ -75,7 +75,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 
 
-## [0.82] - 2020-10-13
+## [0.82] - 2022-10-13
 
 ### Added
 - added option to quickly add (pin) firewall prog sets to presets
@@ -90,7 +90,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 
 
-## [0.81] - 2020-10-11
+## [0.81] - 2022-10-11
 
 ### Added
 - added a few for windows update
@@ -108,7 +108,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 
 
-## [0.80] - 2020-10-07
+## [0.80] - 2022-10-07
 
 ### Added
 - added a few more tweaks
@@ -129,13 +129,13 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 
 
-## [0.75b] - 2020-03-20
+## [0.75b] - 2022-03-20
 
 ### Fixed
 - This release fixes a crash issue with the notification window.
 
 
-## [0.75] - 2020-02-18
+## [0.75] - 2022-02-18
 
 ### Added
 - when a firewall rule gets changed a new notification pupup gets displayed
@@ -147,7 +147,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 - settings backups names dont longer contian ':'
 
 
-## [0.74] - 2019-12-21
+## [0.74] - 2021-12-21
 
 ### Changed
 - changed service tag handling to only apply to svchost.exe hosted services
@@ -159,7 +159,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 - fixed issue with updating service PID cache
 
 
-## [0.73] - 2019-12-19
+## [0.73] - 2021-12-19
 
 ### Added
 - dns proxy blockist is now saved every 15 minutes
@@ -177,10 +177,10 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 - fixed issue when upon a change the ribbon controls were not updated acordingly
 
 
-## [0.72] - 2019-12-17
+## [0.72] - 2021-12-17
 
 ### Added
-- German Translation by uDEV2019 
+- German Translation by Turan Özmen 
 - added option to backup and restore ptiv10 settigns from/to file
 
 ### Changed
@@ -193,7 +193,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 - some englisch spelling corrections by CHEF-KOCH
 
 
-## [0.71] - 2019-12-16
+## [0.71] - 2021-12-16
 
 ### Added
 - added side bar button tooltips
@@ -218,7 +218,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 
 
-## [0.70] - 2019-12-14
+## [0.70] - 2021-12-14
 
 ### Added
 - improved the DNS Inspector
@@ -238,7 +238,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 
 
-## [0.65.2] - 2019-12-13
+## [0.65.2] - 2021-12-13
 
 ### Fixed
 - fixed crash when deleting program items
@@ -250,7 +250,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 
 
-## [0.65.1] - 2019-12-10
+## [0.65.1] - 2021-12-10
 
 ### Added
 - added a propper setup
@@ -265,7 +265,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 - fixed issue with notification window oppening unnececerly on a delayed hostname update
 
 
-## [0.65] - 2019-12-04
+## [0.65] - 2021-12-04
 
 ### Added
 - added new program view mode a verbose program tree, that auto enables when the program column ist stretched wider
@@ -277,7 +277,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 
 
-## [0.65] - 2019-12-04
+## [0.65] - 2021-12-04
 
 ### Added
 - added new program view mode a verbose program tree, that auto enables when the program column ist stretched wider
@@ -291,7 +291,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ### Fixed
 
-## [0.60.1] - 2019-12-01
+## [0.60.1] - 2021-12-01
 
 ### Added
 - added process monitor, using ETW events to aid resolving PID to program, when the prgram in question already exited.
@@ -305,7 +305,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 - fixed issues with copying text from datagrids
 
 
-## [0.60] - 2019-11-30
+## [0.60] - 2021-11-30
 
 ### Added
 - added DNS proxy to monitor all DNS requests
@@ -331,7 +331,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 
 
-## [0.57] - 2019-11-16
+## [0.57] - 2021-11-16
 
 ### Added
 - added a few new tweaks
@@ -353,7 +353,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 
 
-## [0.55] - 2019-11-15
+## [0.55] - 2021-11-15
 
 ### Added
 - added tweaks to disable visual studio tlemetry
@@ -383,7 +383,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 - fixed issue adding apps
 
 
-## [0.50b] - 2019-11-05
+## [0.50b] - 2021-11-05
 
 ### Added
 - compatybility with old 32 bit platforms
@@ -393,7 +393,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 
 
-## [0.50a] - 2019-11-03
+## [0.50a] - 2021-11-03
 
 ### Added
 - added own event log, displayed in the overview page
@@ -448,7 +448,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 
 
-## [0.1h] - 2019-05-01
+## [0.1h] - 2021-05-01
 
 ### Added
 - Compatybility with windows 8.1 and server 2012
@@ -458,7 +458,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 - diagtrackrunner.exe and AeLookupSvc tweak are not longer offered to win10 users as on win 10 thay are not present
 - crash when adding new category
 
-## [0.1g] - 2019-01-06
+## [0.1g] - 2021-01-06
 
 ### Added
 - notification window has now path label clickable and opens explorer in the files directory
@@ -476,7 +476,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 - fixed crash when listing a not longer existing service
 - fixed issue when resolving special adress ranges
 
-## [0.1f] - 2019-01-03
+## [0.1f] - 2021-01-03
 
 ### Added
 - italian translation by garf02
@@ -491,7 +491,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 ### Changed
 - port and Ip columns doesn't autoresize anymore
 
-## [0.1e] - 2018-12-29
+## [0.1e] - 2020-12-29
 
 ### Fixed
 - localization string screwup in firewall page
@@ -501,7 +501,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 - polish translation by spamtrash (programyzadarmo.net.pl)
 
 
-## [0.1d] - 2018-12-28
+## [0.1d] - 2020-12-28
 
 ### Added
 - save last open page and open it on restart
@@ -516,7 +516,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 - improved emabling and disabling of execution as service
 
 
-## [0.1c] - 2018-12-27
+## [0.1c] - 2020-12-27
 
 ### Added
 - buttons in the firewallwindow get enabled/disabled based on list selection
@@ -532,13 +532,13 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 - changes the way service names and PIDs are resolved
 
 
-## [0.1b] - 2018-12-25
+## [0.1b] - 2020-12-25
 
 ### Fixed
 - possible crash when loading the list off installed uwp apps
 
 
-## [0.1] - 2018-12-23
+## [0.1] - 2020-12-23
 
 ### Added
 - Initial release
